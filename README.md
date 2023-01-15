@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devvyky&label=Profile%20views&color=0e75b6&style=flat" alt="devvyky" /> </p>
 
-- 🌱 I’m currently learning **RabbitMQ**
+- 🌱 I’m currently learning **gRPC**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
