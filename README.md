@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 💬 Ask me about **Nestjs, Expressjs, Typescript, Microservices**
+- 💬 Ask me about **Nestjs, Typescript, Go, Microservices**
 
 - 📫 How to reach me **okanemechibuikem@gmail.com**
 
